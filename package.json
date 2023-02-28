@@ -5,6 +5,9 @@
   "repository": "https://github.com/flacial/codedeploy-ec2-express-ap.git",
   "author": "Flacial <ruthemiumwithdiamond@protonmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "sudo node server.js"
+  },
   "dependencies": {
     "express": "^4.18.2"
   }
